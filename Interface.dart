@@ -1,0 +1,1 @@
+// https://www.dhiwise.com/post/a-quick-guide-to-flutter-interface-class
